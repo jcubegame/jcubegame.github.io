@@ -1,0 +1,16 @@
+{
+	"name": "jcube",
+	"short_name": "jcube",
+	"description": "waw",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
